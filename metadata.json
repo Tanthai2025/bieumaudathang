@@ -1,0 +1,5 @@
+{
+  "name": "Biểu mẫu Đặt hàng",
+  "description": "Một tiện ích bổ sung cho Google Sites để thu thập thông tin đặt hàng của khách hàng và lưu trữ trực tiếp vào Google Sheet. Các trường bao gồm họ tên, mã sản phẩm, số điện thoại, địa chỉ và ghi chú.",
+  "requestFramePermissions": []
+}
